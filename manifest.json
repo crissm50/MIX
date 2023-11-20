@@ -1,0 +1,64 @@
+{
+  "name": "I&C RADIO",
+  "short_name": "I&C RADIO",
+  "description": "Bienvenid@s :)",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "start_url": "./",
+  "lang": "es-MX",
+  "icons": [
+      {
+        "src": "./img/16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "./img/32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "./img/64.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      },
+      {
+        "src": "./img/96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "./img/128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "./img/192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./img/256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "./img/384.png",
+        "type": "image/png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "./img/512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "./img/1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }
+      ]
+    }
