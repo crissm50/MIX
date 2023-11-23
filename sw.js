@@ -3,11 +3,20 @@
 const CACHE_NAME = 'I&C MUSIC',
   urlsToCache = [
     './',
-    './assets/animator/animate.css',
-    './assets/fonts/style.css',
-    './assets/js/editor/css/medium-editor.css',
-    './assets/js/editor/css/themes/default.css',
-    './img/favicon.png'
+    './index.html',
+    './script.js',
+    './service-worker.js',
+    './style.css',
+    './manifest.json',
+    './img/16.png',
+    './img/64.png',
+    './img/96.png',
+    './img/128.png',
+    './img/192.png',
+    './img/256.png',
+    './img/384.png',
+    './img/512.png',
+    './img/1024.png',
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
